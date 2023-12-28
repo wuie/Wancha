@@ -1,0 +1,7 @@
+// 去除整体边上的空白
+html,
+body,
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+}
